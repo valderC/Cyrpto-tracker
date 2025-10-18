@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Cyrpto-tracker/static/css/main.3d3fc867.chunk.css",
-    "main.js": "/Cyrpto-tracker/static/js/main.1838a528.chunk.js",
-    "main.js.map": "/Cyrpto-tracker/static/js/main.1838a528.chunk.js.map",
-    "runtime-main.js": "/Cyrpto-tracker/static/js/runtime-main.1a364fea.js",
-    "runtime-main.js.map": "/Cyrpto-tracker/static/js/runtime-main.1a364fea.js.map",
-    "static/js/2.0bbfe904.chunk.js": "/Cyrpto-tracker/static/js/2.0bbfe904.chunk.js",
-    "static/js/2.0bbfe904.chunk.js.map": "/Cyrpto-tracker/static/js/2.0bbfe904.chunk.js.map",
-    "index.html": "/Cyrpto-tracker/index.html",
-    "static/css/main.3d3fc867.chunk.css.map": "/Cyrpto-tracker/static/css/main.3d3fc867.chunk.css.map",
-    "static/js/2.0bbfe904.chunk.js.LICENSE.txt": "/Cyrpto-tracker/static/js/2.0bbfe904.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.3d3fc867.chunk.css",
+    "main.js": "./static/js/main.b2dcb4ef.chunk.js",
+    "main.js.map": "./static/js/main.b2dcb4ef.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4c08fc68.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4c08fc68.js.map",
+    "static/js/2.0bbfe904.chunk.js": "./static/js/2.0bbfe904.chunk.js",
+    "static/js/2.0bbfe904.chunk.js.map": "./static/js/2.0bbfe904.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3d3fc867.chunk.css.map": "./static/css/main.3d3fc867.chunk.css.map",
+    "static/js/2.0bbfe904.chunk.js.LICENSE.txt": "./static/js/2.0bbfe904.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a364fea.js",
+    "static/js/runtime-main.4c08fc68.js",
     "static/js/2.0bbfe904.chunk.js",
     "static/css/main.3d3fc867.chunk.css",
-    "static/js/main.1838a528.chunk.js"
+    "static/js/main.b2dcb4ef.chunk.js"
   ]
 }
