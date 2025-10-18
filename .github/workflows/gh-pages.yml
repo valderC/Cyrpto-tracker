@@ -22,8 +22,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+
       - name: Build
         run: npm run build
+
+      - name: Install gh-pages
+        run: npm install -g gh-pages
 
       - name: Configure Git user
         run: |
