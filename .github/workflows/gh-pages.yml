@@ -39,3 +39,7 @@ jobs:
           CI: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh-pages -d build -b gh-pages -u 'GitHub Actions <actions@github.com>' --repo=https://x-access-token:${GITHUB_TOKEN}@github.com/valderC/Cyrpto-tracker.git
+
+      - name: Show deployed URL
+        run: |
+          echo "Your site is deployed at: https://valderC.github.io/Cyrpto-tracker/"
