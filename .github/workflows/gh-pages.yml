@@ -38,4 +38,4 @@ jobs:
         env:
           CI: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh-pages -d build -b gh-pages -u "github-actions[bot] <github-actions[bot]@users.noreply.github.com>" --repo=https://x-access-token:${GITHUB_TOKEN}@github.com/valderC/Cyrpto-tracker.git
+        run: gh-pages -d build -b gh-pages -u 'GitHub Actions <actions@github.com>' --repo=https://x-access-token:${GITHUB_TOKEN}@github.com/valderC/Cyrpto-tracker.git
